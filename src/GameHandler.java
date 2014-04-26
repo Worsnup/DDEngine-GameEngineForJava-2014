@@ -1,3 +1,8 @@
+// something something... update this with a description
+// ----------
+// Copyright (c) <2014> <Dalton Worsnup; Dalton Woodard>
+// See LICENSE.md for details.
+
 package gameEngine;
 
 import gameEngine.*;
